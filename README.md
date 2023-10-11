@@ -19,7 +19,4 @@ Hi 👋, I'm Satyam Maurya<br>A passionate Full Stack Web Developer from India<b
 ---
 [![](https://visitcount.itsvg.in/api?id=satyam19711&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-    
-    ---
-    [![](https://visitcount.itsvg.in/api?id=satyam19711&icon=0&color=0)](https://visitcount.itsvg.in)
+
