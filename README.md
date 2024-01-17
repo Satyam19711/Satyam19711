@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/1f034ebfc52e5fdcc097e7b3c6c9100e1fd606f5a99af8ea35f1d3a936bbfdfa/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 
 # 💫 About Me:
-Hi 👋, I'm Satyam Maurya<br>A passionate Full Stack Web Developer from India<br>🌱 I’m currently learning React<br>💬 Ask me about MEARN<br>📫 How to reach me smauryachs44@gmail.com<br>⚡ Fun fact I can build you a website from the ground up, and then I can fix it when you break it.<br>
+Hi 👋, I'm Satyam Maurya<br>A passionate Full Stack Web Developer from India<br>🌱 I’m currently learning React<br>💬 Ask me about MERN<br>📫 How to reach me smauryachs44@gmail.com<br>⚡ Fun fact I can build you a website from the ground up, and then I can fix it when you break it.<br>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding">
 
