@@ -98,8 +98,9 @@
 
 
 ###
-
 <div align="center">
-  <img alt="Pac-Man animation" src="https://media.giphy.com/media/8JTf3RkWcJQ7S/giphy.gif" />
+  <img src="https://raw.githubusercontent.com/trinib/rsrc/main/svg/pacman.svg" width="500" alt="pacman svg" />
 </div>
+
+
 
