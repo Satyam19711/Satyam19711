@@ -3,13 +3,13 @@
 <h1 align="center">I'm Satyam Maurya</h1>
 <h3 align="center">💻 Full-Stack Web Developer | Passionate about React, Node.js, and Building Scalable Websites</h3>
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://satyam19711-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://satyam1919.vercel.app/)
 
 
 - 📫 You can reach me at [smauryachs44@gmail.com](mailto:smauryachs44@gmail.com)
 
 
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/1M_imbxdbE2VmGi0tI57WF7R_r6VVT7LK/view?usp=sharing)
+- 📄 Know about me [My Resume](https://drive.google.com/file/d/1wvHviQE7jTXj_YjGXMRdfu_v-580qn3e/view)
 
 
 - ⚡ Fun fact **⚡ Fun fact I can build you a website from the ground up, and then I can fix it when you break it.**
