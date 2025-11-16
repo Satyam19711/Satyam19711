@@ -99,7 +99,7 @@
 
 ###
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/rsrc/main/svg/pacman.svg" width="500" alt="pacman svg" />
+  <img src="https://raw.githubusercontent.com/victorqribeiro/pacman/main/pacman.gif" width="400" alt="pacman animation" />
 </div>
 
 
