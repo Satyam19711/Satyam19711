@@ -74,6 +74,8 @@
 
 
 
+
+
 # 📊 GitHub Stats:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam19711&show_icons=true&locale=en&layout=compact" alt="satyam19711" /></p>
@@ -82,3 +84,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam19711&" alt="satyam19711" /></p>
 
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
