@@ -79,18 +79,13 @@
 
 
 
-
 # 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats-git-master-satyu.vercel.app/api/top-langs/?username=satyam19711&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyam19711&show_icons=true&locale=en&layout=compact" alt="satyam19711" /></p>
 
-![Satyam's GitHub stats](https://github-readme-stats-git-master-satyu.vercel.app/api?username=satyam19711&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam19711&show_icons=true&locale=en" alt="satyam19711" /></p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyam19711)
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam19711&" alt="satyam19711" /></p>   
 ###
 
 <div align="center">
