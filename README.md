@@ -9,7 +9,7 @@
 - 📫 You can reach me at [smauryachs44@gmail.com](mailto:smauryachs44@gmail.com)
 
 
-- 📄 Know about me [My Resume](https://drive.google.com/file/d/1wvHviQE7jTXj_YjGXMRdfu_v-580qn3e/view)
+- 📄 Know about me [My Resume](https://drive.google.com/file/d/1tfFWKg1GQb5X5n2E5p7Xa_0bYHZ7iTnR/view?usp=drivesdk)
 
 
 - ⚡ Fun fact **⚡ Fun fact I can build you a website from the ground up, and then I can fix it when you break it.**
